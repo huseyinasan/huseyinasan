@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/huseyinasan/](https://www.linkedin.com/in/huseyinasan/)
 
-- ⚡ Fun fact **I'm not trying to be a dev. I'm just learning to code so I can write my own projects.**
+- ⚡ Fun fact **I'm not trying to be a dev. I'm just learning the code parts that I just need so I can write my own projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
